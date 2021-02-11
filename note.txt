@@ -1,1 +1,6 @@
+
+
+I am editing this txt file as newbranch
+=======
 I am the master so i edited this txt file
+
